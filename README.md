@@ -1,4 +1,4 @@
-# Athenaeum — AI Knowledge Assistant
+# CodeBreaker — AI Knowledge Assistant
 
 A production-ready **Retrieval-Augmented Generation (RAG)** application. Upload PDF or text
 documents, ask questions in a chat interface, and get answers grounded in your own sources
